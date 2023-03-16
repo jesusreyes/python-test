@@ -1,0 +1,11 @@
+>>> from docstring import palindromo
+
+>>> palindromo('Anita lava la tina')
+True
+
+>>> palindromo('CodigoFacilito')
+False
+
+>>> sentence = 'Oso'
+>>> palindromo(sentence)
+True
